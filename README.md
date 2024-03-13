@@ -1,10 +1,34 @@
 # Mitron Bank: Customer demographics analysis for new credit card launch Project
 
-## Problem Statement:
-Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. 
+## Table of Content
+1. [About Mitron Bank](#table-of-content)
+2. [Objective of the Project](#table-of-content)
+3. [Problem Statement](#table-of-content)
+4. [Income Utlilization & Spending Analysis]
+5. [Grid View Page Table]
+6. [Recommendation]
 
-AtliQ Data Services came to know about this through an internal link and approached Mitron Bank with a proposal to implement this project. However, the strategy director of Mitron Bank, Mr. Bashnir Rover is skeptical and asked them to do a pilot project with the sample data before handing over them the full project. They provided a sample dataset of 4000 customers across five cities on their online spending and other details. 
+#
+### About Mitron Bank 
+[🔁Home](#table-of-content)
 
-Peter Pandey is a data analyst at AtliQ Data Services and was asked by his manager to take over this project. His role is to analyse the provided sample data and report key findings to the strategy team of Mitron Bank. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends. 
+Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
-The successful acquisition of this project depends on Peter's ability to provide actionable, data-driven recommendations and impress Mr. Bashnir Rover & his team. Peter requested support from his manager Tony Sharma, and he provided him with some ideas to generate insights based on the data provided. 
+### Objective of the Project 
+ [🔁Home](#table-of-content)
+
+The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends. 
+
+### Problem Statment   
+[🔁Home](#table-of-content)
+
+ * Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
+   
+ * Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
+   
+ * Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
+
+ * Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences. 
+
+ * Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
+#

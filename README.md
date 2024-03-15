@@ -94,8 +94,8 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 
 • Although unmarried customers constitute a smaller portion, they still make up a significant 21.6% of our customer base.
 
-## Income Utilization & Spending Patterns
-[🔁Home](#table-of-content-Spending-Patterns)
+## Income Utlilization & Spending Patterns
+ [🔁Home](#table-of-content-Spending-Patterns)
 
 o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Customer Spending Analysis" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
 

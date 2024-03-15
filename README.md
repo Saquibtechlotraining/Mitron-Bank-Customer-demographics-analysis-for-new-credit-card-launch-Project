@@ -32,6 +32,11 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
  * Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
 
+## Home Page
+
+![Screenshot 2024-03-16 003600](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/dc2b2f33-d746-4db9-b3e5-bc393fb7e72e)
+
+
 ## Demographic Classification:   
 [🔁Home](#table-of-content)
 
@@ -68,4 +73,27 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 #### City-wise Distribution
 
 ![Screenshot 2024-03-13 221215](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/8dc3de70-1dd1-4ef6-8626-c004c85fc40f)
+
+• Mumbai stands out for its high customer concentration, boasting 1078 predominantly male customers. 
+
+• Additionally, other prominent cities such as Chennai, Bangalore, and Delhi NCR make substantial contributions to our customer base.
+
+#### Insight related to Occupation:
+
+![Screenshot 2024-03-16 004412](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/c57e4a29-92f5-41a6-b061-56c851b54c07)
+
+• A significant portion of our customer base (1294) comprises salaried IT employees, indicating a strong presence of tech-oriented individuals.
+
+• The array of occupations represented, ranging from freelancers to business owners, offers a chance to customize services to cater to diverse professional requirements.
+
+
+
+
+
+
+
+
+
+
+
 

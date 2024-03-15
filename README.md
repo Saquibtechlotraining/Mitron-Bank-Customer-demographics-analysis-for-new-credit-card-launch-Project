@@ -4,7 +4,7 @@
 1. [About Mitron Bank](#table-of-content)
 2. [Objective of the Project](#table-of-content)
 3. [Problem Statement](#table-of-content)
-4. [Income Utlilization & Spending Patterns](#income-utilization--spending-patterns)
+4. [Income Utilization & Spending Patterns](#income-utilization--spending-patterns)
 5. [Grid View Page]
 6. [Recommendation]
 

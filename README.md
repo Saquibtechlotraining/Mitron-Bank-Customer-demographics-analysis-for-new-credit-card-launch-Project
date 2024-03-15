@@ -4,8 +4,8 @@
 1. [About Mitron Bank](#table-of-content)
 2. [Objective of the Project](#table-of-content)
 3. [Problem Statement](#table-of-content)
-4. [Income Utlilization & Spending Analysis]
-5. [Grid View Page Table]
+4. [Income Utlilization & Spending Patterns]
+5. [Grid View Page]
 6. [Recommendation]
 
 #
@@ -131,3 +131,46 @@ o uncover crucial insights into customer spending behaviors and grasp the averag
 • Salaried IT professionals lead in both income, amounting to $477 million, and expenditure, totaling $244 million, with a utilization rate of 51.04%. Business owners report an income of $265 million, expenditure of $88 million, and a utilization rate of 33.22%. 
 
 • Conversely, government employees demonstrate the lowest utilization rate at 29%.
+
+#### Average Income, Average Spend & Income Utlilization by City:
+
+![Screenshot 2024-03-16 014920](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/52010340-48e2-4d08-908d-2c22c399eeaa)
+
+• Mumbai excels with the greatest income and expenditure, leading to a utilization rate of 51.43%. 
+
+• Chennai, Delhi NCR, Bengaluru, and Hyderabad exhibit diverse utilization rates.
+
+#### Total Spend & Income Utilization by Payement Type:
+
+![Screenshot 2024-03-16 015202](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/7652ddc5-d40c-4c93-a6fc-459f8c71deac)
+
+• The majority of spending is attributed to credit cards, totaling $216 million, with a utilization rate of 17.45%. 
+
+• Alternative payment methods encompass UPI, debit cards, and net banking.
+
+#### Total Spend by Gender:
+
+![Screenshot 2024-03-16 015458](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/b80d82a4-c4fb-48bb-aa03-5ad54b4d0b78)
+
+• Male individuals take the forefront in spending, accounting for $357 million, while females contribute $154 million.
+
+#### Total Spend by Marital Status:
+
+![Screenshot 2024-03-16 015627](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/7abbd6ca-f542-4d7f-88eb-be59e3ee2646)
+
+• In terms of spending, married individuals lead with a total of $429 million, exceeding unmarried individuals who contribute $102 million.
+
+#### Total Spend by Month
+
+![Screenshot 2024-03-16 015752](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/8abddeab-5dd3-43aa-974a-8ab173424bed)
+
+• September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
+
+#### Average Income, Average Spend & Income Utlilization by Gender:
+
+![Screenshot 2024-03-16 015945](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/13022882-4207-429c-aeda-e9c3d16889cd)
+
+• Males demonstrate a higher utilization rate of income at 44.39%, in contrast to females who exhibit a rate of 39.92%.
+
+## Grid View 
+

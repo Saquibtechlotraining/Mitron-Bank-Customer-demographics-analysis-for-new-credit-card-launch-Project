@@ -86,14 +86,47 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 
 • The array of occupations represented, ranging from freelancers to business owners, offers a chance to customize services to cater to diverse professional requirements.
 
+#### Marital Status Overview:
 
+![Screenshot 2024-03-16 010703](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/0839d01f-72d1-4ebe-ae64-05ab399baa5d)
 
+• The vast majority of our customers, accounting for 78.41%, are married, underscoring the necessity of offering financial solutions tailored to family needs.
+• Although unmarried customers constitute a smaller portion, they still make up a significant 21.6% of our customer base.
 
+#### Income Utilization % Spending Patterns
 
+o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Customer Spending Analysis" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
 
+![Screenshot 2024-03-16 011107](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/95e50319-5168-434b-ba4c-4983669ca5fd)
 
+#### Average Income Utlilization:
 
+![Screenshot 2024-03-16 011302](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/15e740b7-3e27-4298-a985-848b3ca8d008)
 
+#### Key Metrics in 6 months:
 
+![Screenshot 2024-03-16 011418](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/38efc8e8-416f-4816-b6d1-75fbe42e9414)
 
+#### Average Income, Average Spend & Income Utilization by Age Group:
 
+![Screenshot 2024-03-16 011705](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/d9207b3b-c4ef-4aa4-b117-5274791028dc)
+
+• The age bracket of 25-34 demonstrates the highest income, expenditure, and utilization rate at 43.66%. 
+
+• Following closely is the 35-45 age group, boasting a utilization rate of 46.52%, which stands as the second-highest.
+
+#### Total Spend by Category:
+
+![Screenshot 2024-03-16 012010](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/bdbe50c8-6207-4a56-9de3-0ea1dbb39d20)
+
+• The most money is spent on bills, totaling $105 million, with an average usage of 46%.
+
+• Other significant spending includes $86 million on groceries and $80 million on electronics, while the least is spent on other miscellaneous items, totaling $16 million.
+
+#### Total Spend & Income Utlilization by Occupation:
+
+![Screenshot 2024-03-16 012243](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/255521de-e518-40a2-a42a-7490525c84dd)
+
+• Salaried IT professionals lead in both income, amounting to $477 million, and expenditure, totaling $244 million, with a utilization rate of 51.04%. Business owners report an income of $265 million, expenditure of $88 million, and a utilization rate of 33.22%. 
+
+• Conversely, government employees demonstrate the lowest utilization rate at 29%.

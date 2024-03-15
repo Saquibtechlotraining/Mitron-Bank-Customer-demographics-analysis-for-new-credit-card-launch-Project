@@ -4,9 +4,9 @@
 1. [About Mitron Bank](#table-of-content)
 2. [Objective of the Project](#table-of-content)
 3. [Problem Statement](#table-of-content)
-4. [Income Utilization & Spending Patterns](#income-utilization--spending-patterns)
-5. [Grid View Page]
-6. [Recommendation]
+4. [Spending Patterns](#income-utilization--spending-patterns)
+5. [Grid View](#table-of-content--Grid-View-Page)
+6. [Recommendation](#table-of-content-Recommendation)
 
 #
 ### About Mitron Bank 
@@ -94,7 +94,7 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 
 • Although unmarried customers constitute a smaller portion, they still make up a significant 21.6% of our customer base.
 
-## Income Utlilization & Spending Patterns
+## Spending Patterns
  [🔁Home](#income-utilization--spending-patterns)
 
 o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Customer Spending Analysis" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
@@ -174,4 +174,37 @@ o uncover crucial insights into customer spending behaviors and grasp the averag
 • Males demonstrate a higher utilization rate of income at 44.39%, in contrast to females who exhibit a rate of 39.92%.
 
 ## Grid View 
+[🔁Home](#table-of-content--Grid-View-Page)
+
+![Screenshot 2024-03-16 021529](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/e14a3378-0a20-4e02-bb2d-32fb8132e33d)
+
+Moreover, an additional page has been specifically designated for a detailed Grid View, facilitating an exhaustive review of all customer data. This structured format allows for a comprehensive examination of individual customer information, thereby supporting refined and tailored analyses.
+
+#### Recommendation
+[🔁Home](#table-of-content-Recommendation)
+
+To enhance credit card adoption among the targeted customer segments comprising salaried employees, self-employed individuals, and freelancers, consider integrating the following key features into the credit card:
+
+Tailored Rewards Program:
+Develop a rewards system that resonates with the spending behaviors of salaried employees, self-employed individuals, and freelancers. This may involve offering cashback incentives on common expenditure categories like groceries, dining, and business-related costs.
+
+Flexible Payment Options:
+Provide versatile payment plans to accommodate varying income structures. This could entail offering customizable monthly payment schemes, empowering users to adjust their payment schedules based on their financial circumstances.
+
+Expense Tracking and Budgeting Tools:
+Incorporate built-in tools or collaborate with budgeting applications to assist users in monitoring their expenses, categorizing spending, and establishing budgetary objectives. Such features can be particularly valuable for freelancers and self-employed individuals managing fluctuating incomes.
+
+Competitive Annual Fees and Interest Rates:
+Maintain competitive annual fees and extend reasonable interest rates to attract and retain clientele. Consider introducing introductory offers, discounted rates for loyal patrons, or promotional deals tailored to specific spending categories.
+
+Contactless and Mobile Payment Capabilities:
+Ensure the credit card supports contactless payments and seamlessly integrates with popular mobile payment platforms. This enhances convenience for users who prefer digital and contactless transaction methods.
+
+Enhanced Security Measures:
+Implement advanced security protocols such as real-time fraud detection alerts, biometric authentication, and virtual card number generation to fortify transactional security. Effectively communicate these security measures to instill confidence and trust among users.
+
+
+
+
+
 

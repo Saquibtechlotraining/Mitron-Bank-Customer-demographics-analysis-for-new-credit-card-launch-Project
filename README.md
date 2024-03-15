@@ -91,9 +91,10 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 ![Screenshot 2024-03-16 010703](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/0839d01f-72d1-4ebe-ae64-05ab399baa5d)
 
 • The vast majority of our customers, accounting for 78.41%, are married, underscoring the necessity of offering financial solutions tailored to family needs.
+
 • Although unmarried customers constitute a smaller portion, they still make up a significant 21.6% of our customer base.
 
-#### Income Utilization % Spending Patterns
+## Income Utilization & Spending Patterns
 
 o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Customer Spending Analysis" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
 

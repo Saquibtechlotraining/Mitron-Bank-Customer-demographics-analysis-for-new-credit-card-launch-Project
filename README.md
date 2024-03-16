@@ -30,7 +30,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
  * Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
 
-## Home Page
+## Home Page:
 
 ![Screenshot 2024-03-16 003600](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/dc2b2f33-d746-4db9-b3e5-bc393fb7e72e)
 
@@ -174,39 +174,6 @@ o uncover crucial insights into customer spending behaviors and grasp the averag
 ![Screenshot 2024-03-16 021529](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/e14a3378-0a20-4e02-bb2d-32fb8132e33d)
 
 Moreover, an additional page has been specifically designated for a detailed Grid View, facilitating an exhaustive review of all customer data. This structured format allows for a comprehensive examination of individual customer information, thereby supporting refined and tailored analyses.
-
-## Recommendation:
-
-To encourage more people like salaried employees, freelancers, and self-employed individuals to use our credit card, we can add some helpful features:
-
-𝗧𝗮𝗶𝗹𝗼𝗿𝗲𝗱 𝗥𝗲𝘄𝗮𝗿𝗱𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺:
-
-    Create a rewards system that matches how these groups spend money. For example, we could give cashback on things like groceries, eating out, and business expenses.
-
-
-𝗙𝗹𝗲𝘅𝗶𝗯𝗹𝗲 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗢𝗽𝘁𝗶𝗼𝗻𝘀:
-
-    Let users choose how they pay based on their income. They could pick monthly payment plans that suit their financial situation.
-
-
-𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗧𝗿𝗮𝗰𝗸𝗶𝗻𝗴 𝗮𝗻𝗱 𝗕𝘂𝗱𝗴𝗲𝘁𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀:
-
-    Offer tools to help users keep track of their spending and set budgets. This is especially useful for freelancers and self-employed people with irregular incomes.
-
-
-𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗙𝗲𝗲𝘀 𝗮𝗻𝗱 𝗥𝗮𝘁𝗲𝘀:
-
-Keep our fees and interest rates fair and competitive. We could offer special deals to loyal customers or discounts for certain spending habits.
-
-
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗹𝗲𝘀𝘀 𝗮𝗻𝗱 𝗠𝗼𝗯𝗶𝗹𝗲 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀:
-
-    Make sure our credit card can be used for contactless payments and works smoothly with popular mobile payment apps. This makes transactions easier for people who prefer digital methods.
-
-
-𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆:
-
-    Use top-notch security measures like real-time fraud alerts, fingerprint recognition, and virtual card numbers. It's important to let users know that their transactions are safe and secure.
 
 
 

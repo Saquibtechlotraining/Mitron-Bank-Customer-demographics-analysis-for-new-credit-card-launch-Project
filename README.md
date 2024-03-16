@@ -6,9 +6,9 @@ Dashboard Link: https://www.novypro.com/project/mitron-bank-power-bi
 1. About Mitron Bank
 2. Objective of the Project
 3. Problem Statement
-4. Spending Patterns
-5. Grid View
-6. Recommendation
+5. Demographic
+6. Spending Patterns
+7. Grid View
 
 ### About Mitron Bank: 
 
@@ -35,7 +35,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 ![Screenshot 2024-03-16 003600](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/dc2b2f33-d746-4db9-b3e5-bc393fb7e72e)
 
 
-## Demographic Classification:   
+## Demographic:   
 
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 

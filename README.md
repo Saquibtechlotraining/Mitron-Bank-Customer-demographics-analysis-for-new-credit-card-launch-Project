@@ -10,15 +10,15 @@ Dashboard Link: https://www.novypro.com/project/mitron-bank-power-bi
 5. Grid View
 6. Recommendation
 
-### About Mitron Bank 
+### About Mitron Bank: 
 
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
-### Objective of the Project 
+### Objective of the Project: 
 
 The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends. 
 
-### Problem Statment   
+### Problem Statment:   
 
  * Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
    
@@ -91,7 +91,7 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 
 • Although unmarried customers constitute a smaller portion, they still make up a significant 21.6% of our customer base.
 
-## Spending Patterns
+## Spending Patterns:
 
 o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Customer Spending Analysis" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
 
@@ -169,13 +169,13 @@ o uncover crucial insights into customer spending behaviors and grasp the averag
 
 • Males demonstrate a higher utilization rate of income at 44.39%, in contrast to females who exhibit a rate of 39.92%.
 
-## Grid View 
+## Grid View: 
 
 ![Screenshot 2024-03-16 021529](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/e14a3378-0a20-4e02-bb2d-32fb8132e33d)
 
 Moreover, an additional page has been specifically designated for a detailed Grid View, facilitating an exhaustive review of all customer data. This structured format allows for a comprehensive examination of individual customer information, thereby supporting refined and tailored analyses.
 
-#### Recommendation
+## Recommendation:
 
 To encourage more people like salaried employees, freelancers, and self-employed individuals to use our credit card, we can add some helpful features:
 

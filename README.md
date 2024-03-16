@@ -93,7 +93,7 @@ The dataset includes a large group of 4000 customers, which I'm using as the mai
 
 ## Spending Patterns:
 
-o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Customer Spending Analysis" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
+o uncover crucial insights into customer spending behaviors and grasp the average income allocation across various segments, an exhaustive analytical investigation has been initiated. To ensure a thorough comprehension, a specialized "Spending Patterns" page has been intricately developed using Power BI. This page acts as the focal point for unraveling detailed information, containing a wide array of Key Performance Indicators (KPIs) along with informative charts and graphs.
 
 ![Screenshot 2024-03-16 011107](https://github.com/Saquibtechlotraining/Mitron_Bank-Customer_demographics-analysis_for_new_credit_card_launch_Project/assets/91885135/95e50319-5168-434b-ba4c-4983669ca5fd)
 

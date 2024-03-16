@@ -180,22 +180,33 @@ Moreover, an additional page has been specifically designated for a detailed Gri
 To encourage more people like salaried employees, freelancers, and self-employed individuals to use our credit card, we can add some helpful features:
 
 𝗧𝗮𝗶𝗹𝗼𝗿𝗲𝗱 𝗥𝗲𝘄𝗮𝗿𝗱𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺:
-Create a rewards system that matches how these groups spend money. For example, we could give cashback on things like groceries, eating out, and business expenses.
+
+    Create a rewards system that matches how these groups spend money. For example, we could give cashback on things like groceries, eating out, and business expenses.
+
 
 𝗙𝗹𝗲𝘅𝗶𝗯𝗹𝗲 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗢𝗽𝘁𝗶𝗼𝗻𝘀:
-Let users choose how they pay based on their income. They could pick monthly payment plans that suit their financial situation.
+
+    Let users choose how they pay based on their income. They could pick monthly payment plans that suit their financial situation.
+
 
 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗧𝗿𝗮𝗰𝗸𝗶𝗻𝗴 𝗮𝗻𝗱 𝗕𝘂𝗱𝗴𝗲𝘁𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀:
-Offer tools to help users keep track of their spending and set budgets. This is especially useful for freelancers and self-employed people with irregular incomes.
+
+    Offer tools to help users keep track of their spending and set budgets. This is especially useful for freelancers and self-employed people with irregular incomes.
+
 
 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗙𝗲𝗲𝘀 𝗮𝗻𝗱 𝗥𝗮𝘁𝗲𝘀:
+
 Keep our fees and interest rates fair and competitive. We could offer special deals to loyal customers or discounts for certain spending habits.
 
+
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗹𝗲𝘀𝘀 𝗮𝗻𝗱 𝗠𝗼𝗯𝗶𝗹𝗲 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀:
-Make sure our credit card can be used for contactless payments and works smoothly with popular mobile payment apps. This makes transactions easier for people who prefer digital methods.
+
+    Make sure our credit card can be used for contactless payments and works smoothly with popular mobile payment apps. This makes transactions easier for people who prefer digital methods.
+
 
 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆:
-Use top-notch security measures like real-time fraud alerts, fingerprint recognition, and virtual card numbers. It's important to let users know that their transactions are safe and secure.
+
+    Use top-notch security measures like real-time fraud alerts, fingerprint recognition, and virtual card numbers. It's important to let users know that their transactions are safe and secure.
 
 
 

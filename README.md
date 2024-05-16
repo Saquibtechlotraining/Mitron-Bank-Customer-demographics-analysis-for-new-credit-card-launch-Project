@@ -1,7 +1,5 @@
 # Mitron Bank: Customer demographics analysis for new credit card launch Project
 
-Dashboard Link: https://www.novypro.com/project/mitron-bank-customer-demographics-analysis-for-new-credit-card-launch-project-power-bi
-
 ## Table of Content
 1. About Mitron Bank
 2. Objective of the Project
